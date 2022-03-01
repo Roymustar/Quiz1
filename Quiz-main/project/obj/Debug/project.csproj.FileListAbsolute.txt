@@ -1,0 +1,16 @@
+C:\Users\polga\OneDrive\Desktop\érettségi\Informatika_emelt_gyakorlati_forrasok_1811\4_Sorozatok\project\project\bin\Debug\project.exe.config
+C:\Users\polga\OneDrive\Desktop\érettségi\Informatika_emelt_gyakorlati_forrasok_1811\4_Sorozatok\project\project\bin\Debug\project.exe
+C:\Users\polga\OneDrive\Desktop\érettségi\Informatika_emelt_gyakorlati_forrasok_1811\4_Sorozatok\project\project\bin\Debug\project.pdb
+C:\Users\polga\OneDrive\Desktop\érettségi\Informatika_emelt_gyakorlati_forrasok_1811\4_Sorozatok\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\polga\OneDrive\Desktop\érettségi\Informatika_emelt_gyakorlati_forrasok_1811\4_Sorozatok\project\project\obj\Debug\project.csproj.SuggestedBindingRedirects.cache
+C:\Users\polga\OneDrive\Desktop\érettségi\Informatika_emelt_gyakorlati_forrasok_1811\4_Sorozatok\project\project\obj\Debug\MainWindow.g.cs
+C:\Users\polga\OneDrive\Desktop\érettségi\Informatika_emelt_gyakorlati_forrasok_1811\4_Sorozatok\project\project\obj\Debug\App.g.cs
+C:\Users\polga\OneDrive\Desktop\érettségi\Informatika_emelt_gyakorlati_forrasok_1811\4_Sorozatok\project\project\obj\Debug\project_MarkupCompile.cache
+C:\Users\polga\OneDrive\Desktop\érettségi\Informatika_emelt_gyakorlati_forrasok_1811\4_Sorozatok\project\project\obj\Debug\project_MarkupCompile.lref
+C:\Users\polga\OneDrive\Desktop\érettségi\Informatika_emelt_gyakorlati_forrasok_1811\4_Sorozatok\project\project\obj\Debug\MainWindow.baml
+C:\Users\polga\OneDrive\Desktop\érettségi\Informatika_emelt_gyakorlati_forrasok_1811\4_Sorozatok\project\project\obj\Debug\project.g.resources
+C:\Users\polga\OneDrive\Desktop\érettségi\Informatika_emelt_gyakorlati_forrasok_1811\4_Sorozatok\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\polga\OneDrive\Desktop\érettségi\Informatika_emelt_gyakorlati_forrasok_1811\4_Sorozatok\project\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\polga\OneDrive\Desktop\érettségi\Informatika_emelt_gyakorlati_forrasok_1811\4_Sorozatok\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\polga\OneDrive\Desktop\érettségi\Informatika_emelt_gyakorlati_forrasok_1811\4_Sorozatok\project\project\obj\Debug\project.exe
+C:\Users\polga\OneDrive\Desktop\érettségi\Informatika_emelt_gyakorlati_forrasok_1811\4_Sorozatok\project\project\obj\Debug\project.pdb
